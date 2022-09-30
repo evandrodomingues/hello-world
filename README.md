@@ -13,9 +13,9 @@ Repositório Hello World do tutorial do Github
 > 
 > **Frontend Dart / Flutter**
 > 
-> **Backend JavaScript. 
+> **Backend JavaScript - Parse Server** 
 > 
-> *_Back4app_*.**
+> *_Back4app_*
 > 
 
 ---
